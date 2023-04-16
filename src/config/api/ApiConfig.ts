@@ -1,0 +1,5 @@
+export const RECIPES_API_BASE_URL = "https://themealdb.com/api/json/v1/1"
+export const CATEGORY_API_URL = "/categories.php"
+export const RECIPES_API_URL = "/filter.php?c="
+export const DETAILS_API_URL = "/lookup.php?i="
+export const NEWS_API_KEY = "1"
